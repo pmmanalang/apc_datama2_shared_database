@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"emp_idn","STRING","11","0","0"
+"person_id","INTEGER","1","1","0"
+"department_id","INTEGER","1","1","0"
